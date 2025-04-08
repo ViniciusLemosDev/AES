@@ -68,4 +68,3 @@ python AES.py decifrar exemplo.txt.enc minha_senha
 ## 📄 Licença
 
 Uso livre para fins educacionais, acadêmicos ou comerciais.
-```
