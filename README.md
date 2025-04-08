@@ -1,4 +1,3 @@
-```markdown
 # 🔐 Criptografar com AES
 
 Este programa permite **criptografar e descriptografar** arquivos usando o algoritmo **AES em modo CBC**.
